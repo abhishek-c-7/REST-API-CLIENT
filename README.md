@@ -1,7 +1,9 @@
 # REST-API-CLIENT
 Company Name : CODTECH IT SOLUTIONS PVT. LTD
 
-Student NAME : ABHISHEK CHOUDHARY
+Student Name : ABHISHEK CHOUDHARY
+
+Intern ID : CT06DK611
 
 Domain Name : JAVA PROGRAMMING
 
@@ -9,7 +11,9 @@ Batch Duration : April 30th,2025 to June 15th,2025
 
 Mentor Name : NEELA SANTHOSH KUMAR
 
-About Internship Task 2 : 
+Internship Task 2 : Rest API Client
+
+About the task : 
 
 This project is part of my academic internship, specifically Task 2, which required building a REST API client in Java to fetch and display real-time weather information of a specific city using a public API. The main objective of this task was to help me understand how to consume third-party APIs using Java, handle HTTP requests, parse JSON data, and display meaningful results to the user.
 
